@@ -1,6 +1,5 @@
 import os
 
-# Module for reading CSV files
 import csv
 
 # Read BudgetData dataset
